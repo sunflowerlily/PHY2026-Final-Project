@@ -22,7 +22,6 @@
 
 学生需在第 16 周通过**独立的 GitHub Classroom 链接**提交开题报告。开题报告需以 Markdown 形式撰写，明确物理场景、核心算法及分工。
 
-- **开题报告模板**: 参考 [Proposal_Template.md](0_Guide_Materials/Proposal_Template.md)
 - **开题提交链接**: [点击前往提交 (第16周专用)](https://classroom.github.com/a/J9r4eX1O)
 
 **注意**: 只有开题报告获得老师批准（LGTM）的小组，方可正式进入期末项目的开发阶段。
